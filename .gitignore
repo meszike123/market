@@ -13,4 +13,4 @@ logs
 logs
 *.pid
 *.seed
-*.sublime-project
+*.sublime*
