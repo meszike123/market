@@ -9,3 +9,8 @@ logs
 *.pid
 *.seed
 .grunt
+*.log
+logs
+*.pid
+*.seed
+*.sublime-project

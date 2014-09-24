@@ -1,7 +1,0 @@
-*.log
-logs
-*.pid
-*.seed
-.grunt
-node_modules/
-.DS_Store
